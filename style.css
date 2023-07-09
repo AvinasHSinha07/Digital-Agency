@@ -254,6 +254,7 @@
     border-radius: 25px;
     width: 80%;
     margin: 0 auto;
+    margin-bottom: 25px;
 }
 
 .card{
@@ -284,4 +285,47 @@
     /* height: px; */
     color: #E55381;
 
+}
+
+.foot{
+    background-color: #031D44;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px;
+    color: rgba(245, 245, 245, 0.695);
+
+}
+.footer-head{
+    font-size: 25px;
+    margin-bottom: 12px;
+}
+.footer-list{
+    list-style-type: none;
+    margin-bottom: 6px;
+}
+.inf{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+.f{
+    margin-left: 3px;
+}
+
+.footer-icons{
+    background-color: #031D44;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap : 10px;
+   
+}
+
+.ftext{
+    background-color: #031D44;
+    text-align: center;
+    color: #E55381;
+    margin-top: 5px;
+    
 }
